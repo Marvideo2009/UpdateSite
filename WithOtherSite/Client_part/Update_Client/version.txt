@@ -1,0 +1,4 @@
+version : 1.0.3-beta
+date : 2022-06-06
+category : major
+link : https://marvideo.fr/versions/download/1.0.3-beta.zip
